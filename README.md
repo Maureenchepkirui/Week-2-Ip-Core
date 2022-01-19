@@ -1,2 +1,50 @@
 # Week-2-Ip-Core
-1. Defining the Question Specifying the Data Analytic Question How Kenya, Uganda, Tanzania use banks and bank accounts.  2. **Defining the Metric for Success**  Timeline for analysis of the dataset  3. **Understanding the context**  Financial inclusion in Africa is a big problem and known to hinder development in the continent. In Kenya, Uganda, Rwanda, and Tanzania only 13.9% of the adult population have bank accounts.  4. **Recording the Experimental Design**  5. **Data Relevance**
+
+# Description #
+```
+Defining the Question Specifying the Data Analytic Question How Kenya, Uganda, Tanzania use banks and bank accounts. 
+
+```
+# Installation Requirements
+```
+
+
+Use Google Colab or Jupyter Notebook for data preparation and analysis.
+
+Import pandas and Numpy libraries for data manipulation.
+
+Loading datasets and previewing datasets.
+
+Cleaning data; Renaming columns for uniformity, and dropping insignificant columns.
+
+Create a new columns
+```
+
+# Technologies used
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) 
+
+[![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
+
+Pandas
+
+Numpy
+
+# Known Bugs
+```
+Not enough data analysis given.
+
+```
+
+# Contact Details
+```
+maureenchepkirui.moringaschool.com
+```
+# Licence
+```
+Uses the MIT licence
+```
+# Copyright
+```
+Copyright (C) Moringa School Data Science.
+```
