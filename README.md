@@ -1,0 +1,2 @@
+# Week-2-Ip-Core
+1. Defining the Question Specifying the Data Analytic Question How Kenya, Uganda, Tanzania use banks and bank accounts.  2. **Defining the Metric for Success**  Timeline for analysis of the dataset  3. **Understanding the context**  Financial inclusion in Africa is a big problem and known to hinder development in the continent. In Kenya, Uganda, Rwanda, and Tanzania only 13.9% of the adult population have bank accounts.  4. **Recording the Experimental Design**  5. **Data Relevance**
